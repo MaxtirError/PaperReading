@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "5948198412614e70",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b4c1094f4260c25",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e64e9ce40ff7c198",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "086f48c7cd3b32e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SDEDIT/SDEDIT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "da91e47126cbe1ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Plug-and-Play/Plug-and-Play.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ebc5054471dbf295",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6cabc359a96d9c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "340893d479afa4e9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6a3692eae50b1440",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#场景理解图像数据集，主要包含了卧室、固房、客厅、教室等场景图像。",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b1630e1f4257243e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0aa06c5813acde85",
+    "type": "split",
+    "children": [
+      {
+        "id": "31a6ccfa96a98f61",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4bc61de79797ac10",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Plug-and-Play/Plug-and-Play.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c3fff7bb0b36a996",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Plug-and-Play/Plug-and-Play.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "32ab492daf9b9080",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4310a3bbeb49358a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Plug-and-Play/Plug-and-Play.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "da91e47126cbe1ac",
+  "lastOpenFiles": [
+    "Prompt-to-Prompt/Promp-to-Prompt.md",
+    "Plug-and-Play/Plug-and-Play.md",
+    "Plug-and-Play/2211.12572.pdf",
+    "Plug-and-Play/未确认 9010.crdownload",
+    "Plug-and-Play",
+    "Prompt-to-Prompt/Prompt-to-Prompt_preprint.pdf",
+    "未命名",
+    "Prompt-to-Prompt/Pasted image 20231018202918.png",
+    "Prompt-to-Prompt/Pasted image 20231018202315.png",
+    "SDEDIT/SDEDIT.md",
+    "Prompt-to-Prompt",
+    "Datasets.md",
+    "SDEDIT/Kernel Inception Score.md",
+    "SDEDIT/2108.01073.pdf",
+    "SDEDIT",
+    "2023-10-18.md"
+  ]
+}
