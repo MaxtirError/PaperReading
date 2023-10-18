@@ -4,31 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0b4c1094f4260c25",
+        "id": "9216cb55c5dc3584",
         "type": "tabs",
         "children": [
           {
-            "id": "e64e9ce40ff7c198",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "086f48c7cd3b32e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SDEDIT/SDEDIT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "da91e47126cbe1ac",
+            "id": "f9c77f78c21e77ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -39,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -167,23 +146,28 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "da91e47126cbe1ac",
+  "active": "f9c77f78c21e77ab",
   "lastOpenFiles": [
     "Prompt-to-Prompt/Promp-to-Prompt.md",
-    "Plug-and-Play/Plug-and-Play.md",
-    "Plug-and-Play/2211.12572.pdf",
-    "Plug-and-Play/未确认 9010.crdownload",
-    "Plug-and-Play",
     "Prompt-to-Prompt/Prompt-to-Prompt_preprint.pdf",
-    "未命名",
+    "Tasks/Diffusion-Based 2D Image Editing.md",
+    "SDEDIT/SDEDIT.md",
+    "Plug-and-Play/Plug-and-Play.md",
     "Prompt-to-Prompt/Pasted image 20231018202918.png",
     "Prompt-to-Prompt/Pasted image 20231018202315.png",
-    "SDEDIT/SDEDIT.md",
-    "Prompt-to-Prompt",
-    "Datasets.md",
+    "Plug-and-Play/2211.12572.pdf",
+    "Tasks",
+    "Pasted image 20231018210219.png",
+    "未命名 1.canvas",
+    "未命名.canvas",
+    "README.md",
     "SDEDIT/Kernel Inception Score.md",
     "SDEDIT/2108.01073.pdf",
     "SDEDIT",
+    "Prompt-to-Prompt",
+    "Plug-and-Play",
+    "Datasets.md",
+    "Plug-and-Play/未确认 9010.crdownload",
     "2023-10-18.md"
   ]
 }

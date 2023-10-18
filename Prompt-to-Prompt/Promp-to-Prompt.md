@@ -1,4 +1,5 @@
 ## Task
+是[[Diffusion-Based 2D Image Editing]]的其中一种
 一个Prompt $P$生成了一个图片$I$
 给定一个guidance$P^*$  希望Edit图片$I$到$I^*$
 Edit的类型如下：

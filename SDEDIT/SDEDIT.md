@@ -1,4 +1,5 @@
 ## Task
+[[Diffusion-Based 2D Image Editing]]
 给定一张Guidance图片，比如是从某个图片上画一些草图或者是笔画作为guidance，要生成一张真实图片
 ## Method
 把这张图片Denoised到$t_0$ Steps，然后用Diffusion Model Denoised
