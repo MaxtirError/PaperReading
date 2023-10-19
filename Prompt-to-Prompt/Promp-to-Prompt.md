@@ -27,5 +27,8 @@ M就是所谓Attention Map，$M_{ij}$表示了第i个pixels对第j个tokens的�
 1. Word Swap：设定一个阈值，阈值前用一个Map，阈值后用另一个Map
 2. Prompt Refinement：把新的Map中有和旧Map对应关系的，把旧的替换过去
 3. Attention Re-weighting：把某个M乘上某个倍数
+## 总结
+
+文本对生成图像的控制是通过Prompt和Attention Map实现的。其中Attention Map主要控制了每个tokens对图像的语义区域控制，并且在Stable Diffusion的Early Stage就出现了。
 ## 论文链接
 ![[Prompt-to-Prompt_preprint.pdf]]
