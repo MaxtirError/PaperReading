@@ -11,15 +11,26 @@
             "id": "0e8cc641deac8250",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Generalizable NVS/Explicit Correspondence Matching/Pasted image 20231020213812.png"
+              }
+            }
+          },
+          {
+            "id": "74aee5c506bd8530",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Generalizable NVS/MVSNeRF/MVSNeRF.md",
+                "file": "Generalizable NVS/Explicit Correspondence Matching/Explicit Correspondence Matching.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Generalizable NVS/MVSNeRF/MVSNeRF.md",
+                "file": "Generalizable NVS/Explicit Correspondence Matching/Explicit Correspondence Matching.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Generalizable NVS/MVSNeRF/MVSNeRF.md",
+                "file": "Generalizable NVS/Explicit Correspondence Matching/Explicit Correspondence Matching.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Generalizable NVS/MVSNeRF/MVSNeRF.md"
+                "file": "Generalizable NVS/Explicit Correspondence Matching/Explicit Correspondence Matching.md"
               }
             }
           }
@@ -146,10 +157,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0e8cc641deac8250",
+  "active": "340893d479afa4e9",
   "lastOpenFiles": [
-    "Generalizable NVS/MVSNeRF/NDC.md",
+    "To be Done",
+    "To be Done/GMFlow.md",
+    "Generalizable NVS/Explicit Correspondence Matching/Pasted image 20231020213812.png",
+    "Generalizable NVS/Explicit Correspondence Matching/Explicit Correspondence Matching.md",
     "Generalizable NVS/MVSNeRF/MVSNeRF.md",
+    "Generalizable NVS/MVSNeRF/NDC.md",
     "Generalizable NVS/MVSNeRF/Pasted image 20231020195828.png",
     "Generalizable NVS/MVSNeRF/Pasted image 20231020195525.png",
     "Generalizable NVS/MVSNeRF/Pasted image 20231020190649.png",
@@ -166,13 +181,11 @@
     "Generalizable NVS/SRT/Pasted image 20231020180738.png",
     "Generalizable NVS/IBRNet/IBRNet.md",
     "Generalizable NVS/IBRNet/Pasted image 20231020132037.png",
-    "Generalizable NVS/IBRNet/Pasted image 20231019202510.png",
     "Generalizable NVS/SRT/2111.13152.pdf",
     "Generalizable NVS/pixelNerf/pixelNerf.md",
     "Generalizable NVS/SRT/未确认 412102.crdownload",
     "Generalizable NVS/SRT",
     "Generalizable NVS/MVSNeRF/未确认 562600.crdownload",
-    "Generalizable NVS/MVSNeRF",
     "Diffusion Tunning-Free Editing/MasaCtrl/MasaCtrl.md",
     "Tasks/Generalizable NVS.md",
     "Tasks/Diffusion Tunning-Free Editing.md",
